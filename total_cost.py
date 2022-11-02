@@ -1,0 +1,5 @@
+a=int (input())
+b=int (input())
+n=int (input())
+d= n*(100*a+b)
+print (d//100, d%100 )
